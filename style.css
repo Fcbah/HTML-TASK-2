@@ -1,0 +1,62 @@
+div{    
+    margin: auto;
+    padding:10px;
+}
+:root{
+    background: #ADD8E6;
+}
+.font_big{
+    color: blue;
+    font-size: 20px;
+    font-family: U8 sans-serif;
+    text-align: center;
+    margin-bottom: 0;
+}
+.font_med{
+    margin-top: 0;
+    font-size: 13px;
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom : 3px;
+    font-size: 11px;
+    font-style: bold;
+}
+#covered{
+    width: 420px;
+    background: white;
+    padding: 10px;
+    border-radius: 25px 25px 25px 1px;
+}
+
+#under{
+    margin:0 auto;
+}
+
+#btn_contain{
+    margin:0 auto;
+    display: block;
+}
+
+a{
+    display: block;
+    text-align: center;
+}
+#c_acct{
+    border-radius: 15px 15px 15px 1px;
+    border-width: none;
+    background: blue;
+    color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;    
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
